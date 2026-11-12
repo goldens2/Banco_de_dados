@@ -3,8 +3,7 @@ Projeto prático desenvolvido para a disciplina de Banco de Dados. O objetivo fo
 implementar e validar um banco de dados relacional para um e-commerce com suporte a 
 transações ACID e consultas analíticas.
 ## Integrantes do Grupo
-* Nome do Aluno 1 - Matrícula
-* Nome do Aluno 2 - Matrícula
+* Nome do Aluno 1 - 20250025210
 ## Tecnologias Utilizadas
 * **SGBD:** MySQL (phpMyAdmin)
 * **Linguagem de Consulta:** SQL (DDL e DML)
